@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialX</string>
+    <string name="api_key">1079423d179244a1bb3c81d6f384b5b0</string>
+
+    <string name="facebook_app_id">625531462238401</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
